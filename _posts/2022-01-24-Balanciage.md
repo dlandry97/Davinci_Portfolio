@@ -56,7 +56,7 @@ The project integrates two main portions. First part is the perception: we use r
 
 
 ### Position Control
-<iframe src=/Davinci_portfolio/assets/videos/pushball.gif width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="/Davinci_portfolio/assets/videos/pushball.gif" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 **Computer Vision:**<br>
