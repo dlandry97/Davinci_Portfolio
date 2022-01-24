@@ -73,7 +73,7 @@ When we set our start position on the corners of board, sometimes the ball is ha
 ![control image](/Davinci_portfolio/assets/images/control_diagram.jpg) -->
 
 ## Line Following
-<iframe width="560" height="315" src=/Davinci_Portfolio/assets/videos/line_follow.mp4 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/Davinci_Portfolio/assets/videos/line_follow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## NU Path Follow
 <iframe width="560" height="315" src=/Davinci_Portfolio/assets/videos/NU_Follow.mp4 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
