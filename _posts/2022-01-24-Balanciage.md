@@ -1,7 +1,7 @@
 ---
 title: Balanciaga
 layout: post
-post-image: /Davinci_portfolio/assets/images/Balanciaga.jpg
+post-image: "/Davinci_portfolio/assets/images/balanciaga.jpg"
 description: The goal of this project is to control a ping-pong ball by using Franka Panda robot to manipulate a white board. This is a ROS project developed as part of ME495 - Embedded Systems in Robotics course at Northwestern University.
 tags:
 - Robotics
@@ -41,7 +41,7 @@ The project integrates two main portions. First part is the perception: we use r
 **Team Members**
 * Haozhi Zhang, Devesh Bhura, Davin Landry, Kevin Nella, Daelan Roosa
 
-![Team image](/Davinci_portfolio/assets/images/Vestibular_team.jpg)
+![Team image]("/Davinci_portfolio/assets/images/Vestibular_team.jpg")
 
 **Generally, there are two types of tasks that our controlling of ping-pong ball can be achieved:**
 
@@ -49,10 +49,10 @@ The project integrates two main portions. First part is the perception: we use r
 2. Follow the path solved by our maze solver algorithm, with a maze drawn on a white board.
 
 ### ROS Architecture
-![arch image](/Davinci_portfolio/assets/images/bal_arch.jpg)
+![arch image]("/Davinci_portfolio/assets/images/bal_arch.jpg")
 
 ### Controls diagram
-![control image](/Davinci_portfolio/assets/images/control_diagram.jpg)
+![control image]("/Davinci_portfolio/assets/images/control_diagram.jpg")
 
 
 ### Position Control
@@ -76,10 +76,10 @@ When we set our start position on the corners of board, sometimes the ball is ha
 <iframe width="560" height="315" src="/Davinci_Portfolio/assets/videos/line_follow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## NU Path Follow
-<iframe width="560" height="315" src=/Davinci_Portfolio/assets/videos/NU_Follow.mp4 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/Davinci_Portfolio/assets/videos/NU_Follow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Maze Solving
-<iframe width="560" height="315" src=/Davinci_Portfolio/assets/videos/Maze_follow.mp4 frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="/Davinci_Portfolio/assets/videos/Maze_follow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- **YouTUbe Videos will look like:**<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jTPXwbDtIpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
