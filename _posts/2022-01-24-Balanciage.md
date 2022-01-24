@@ -41,7 +41,7 @@ The project integrates two main portions. First part is the perception: we use r
 **Team Members**
 * Haozhi Zhang, Devesh Bhura, Davin Landry, Kevin Nella, Daelan Roosa
 
-![Team image]("/Davinci_Portfolio/assets/images/Vestibular_team.jpg")
+![Team image](/Davinci_Portfolio/assets/images/Vestibular_team.jpg)
 
 **Generally, there are two types of tasks that our controlling of ping-pong ball can be achieved:**
 
@@ -49,10 +49,10 @@ The project integrates two main portions. First part is the perception: we use r
 2. Follow the path solved by our maze solver algorithm, with a maze drawn on a white board.
 
 ### ROS Architecture
-![arch image]("/Davinci_Portfolio/assets/images/bal_arch.png")
+![arch image](/Davinci_Portfolio/assets/images/bal_arch.png)
 
 ### Controls diagram
-![control image]("/Davinci_Portfolio/assets/images/control_diagram.png")
+![control image](/Davinci_Portfolio/assets/images/control_diagram.png)
 
 
 ### Position Control
