@@ -48,15 +48,15 @@ The project integrates two main portions. First part is the perception: we use r
 1. Follow a line trajectory drawn on a white board.
 2. Follow the path solved by our maze solver algorithm, with a maze drawn on a white board.
 
-### ROS Architecture
+<!-- ### ROS Architecture
 ![arch image](/Davinci_Portfolio/assets/images/bal_arch.png)
 
 ### Controls diagram
-![control image](/Davinci_Portfolio/assets/images/control_diagram.png)
+![control image](/Davinci_Portfolio/assets/images/control_diagram.png) -->
 
 
 ### Position Control
-<iframe src="/Davinci_Portfolio/assets/videos/pushball.gif" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="/Davinci_Portfolio/assets/videos/pushball.gif" width="600" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 **Computer Vision:**<br>
