@@ -1,7 +1,7 @@
 ---
 title: Balanciaga
 layout: post
-post-image: "/Davinci_portfolio/assets/images/balanciaga.jpg"
+post-image: "/Davinci_Portfolio/assets/images/balanciaga.jpg"
 description: The goal of this project is to control a ping-pong ball by using Franka Panda robot to manipulate a white board. This is a ROS project developed as part of ME495 - Embedded Systems in Robotics course at Northwestern University.
 tags:
 - Robotics
@@ -41,7 +41,7 @@ The project integrates two main portions. First part is the perception: we use r
 **Team Members**
 * Haozhi Zhang, Devesh Bhura, Davin Landry, Kevin Nella, Daelan Roosa
 
-![Team image]("/Davinci_portfolio/assets/images/Vestibular_team.jpg")
+![Team image]("/Davinci_Portfolio/assets/images/Vestibular_team.jpg")
 
 **Generally, there are two types of tasks that our controlling of ping-pong ball can be achieved:**
 
@@ -49,14 +49,14 @@ The project integrates two main portions. First part is the perception: we use r
 2. Follow the path solved by our maze solver algorithm, with a maze drawn on a white board.
 
 ### ROS Architecture
-![arch image]("/Davinci_portfolio/assets/images/bal_arch.jpg")
+![arch image]("/Davinci_Portfolio/assets/images/bal_arch.png")
 
 ### Controls diagram
-![control image]("/Davinci_portfolio/assets/images/control_diagram.jpg")
+![control image]("/Davinci_Portfolio/assets/images/control_diagram.png")
 
 
 ### Position Control
-<iframe src="/Davinci_portfolio/assets/videos/pushball.gif" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="/Davinci_Portfolio/assets/videos/pushball.gif" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
 **Computer Vision:**<br>
