@@ -6,4 +6,4 @@ layout: page
 # Resume
 
 
-![Davin_Resume](/Davinci_Portfolio/assets/dresume.pdf)
+![Davin_Resume]("/Davinci_Portfolio/assets/dresume.pdf")
