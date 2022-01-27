@@ -1,5 +1,5 @@
 - name: Balanciaga
-  image: ../assets/images/balanciaga.jpg
+  image: /Davinci_Portfolio/assets/videos/pushball.gif
   link: 
   description: Balance a ball on a whiteboard and steer it though obsticles that are drawn on the board.
 - name: Second Project

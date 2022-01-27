@@ -1,7 +1,7 @@
 ---
 title: Balanciaga
 layout: post
-post-image: "/Davinci_Portfolio/assets/images/balanciaga.jpg"
+post-image: "/Davinci_Portfolio/assets/videos/pushball.gif"
 description: The goal of this project is to control a ping-pong ball by using Franka Panda robot to manipulate a white board. This is a ROS project developed as part of ME495 - Embedded Systems in Robotics course at Northwestern University.
 tags:
 - Robotics
