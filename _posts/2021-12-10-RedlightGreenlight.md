@@ -72,10 +72,7 @@ To combine the computer vision and game algorithm together, I used the ROS pytho
 <!-- ![control image](/Davinci_portfolio/assets/images/control_diagram.jpg) -->
 
 ## Video Presentation
-<iframe width="853" height="480" src="https://youtu.be/3N2Qco0lPuc" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-
-## Video Presentation
-<iframe width="853" height="480" src="https://www.youtube.com/watch?v=3N2Qco0lPuc" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="720" height="480" src="/Davinci_Portfolio/assets/RLGL/presentation.mp4" title="Youtube video player" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 <!-- 
 <iframe width="560" height="315" src="https://youtu.be/3N2Qco0lPuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
