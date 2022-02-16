@@ -2,10 +2,9 @@
 title: Redlight Greenlight Game
 layout: post
 post-image: "/Davinci_Portfolio/assets/RLGL/RLGLEric.gif"
-description: Utilizing computer vision, I made an interactive Redlight Greenlight game from the hit Netflix series Squid Game. 
+description: I made an interactive Redlight Greenlight game from the hit Netflix series Squid Game. 
 tags:
 - Computer Vision
-- Post
 - Tracking
 - Game
 ---
