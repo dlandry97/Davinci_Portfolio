@@ -18,7 +18,7 @@ To develop this game into a project, I chose to replace the role of the seeker w
 **Computer vision**<br>
  I used the python libraries OpenCV, ROS, and pyrealsense2 to create the image processing pipeline for tracking the players. I used color recognition to identify the contours of the players and track their movements. Movement detection was determined by a change in position of the centroid of the contoured area beyond a certain threshold. The player's distance from the goal was detected by utilizing the Intel Realsense D435i's depth perception camera. 
 
-![tracking](/Davinci_portfolio/assets/RLGL/playertracking.jpg)
+![tracking](/Davinci_Portfolio/assets/RLGL/playertracking.jpg)
 
 **Integration**<br>
 To combine the computer vision and game algorithm together, I used the ROS python package. I made a node to manage the image pipeline and send the data to another node that manages the game mechanics and score. The game node would use state machines and timers to manage the game phases and data triggers to keep track of the score. There is an additional node to manage the sound ques to prevent process halting issues.

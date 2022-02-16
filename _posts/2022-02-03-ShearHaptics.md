@@ -91,10 +91,6 @@ The Breadth First search method is used to solve the maze and generate a traject
 **Future Improvements:**<br>
 When we set our start position on the corners of board, sometimes the ball is hard to be balanced initially and could cause drastic motion of robot arm. One way to solve this issue might be adding more dimensions in our control by using more joints to achieve more dynamical balance when putting the ball in any position. -->
 
-<!-- ![arch image](/Davinci_portfolio/assets/images/bal_arch.jpg)
-
-![control image](/Davinci_portfolio/assets/images/control_diagram.jpg) -->
-
 <!-- ## Line Following
 <iframe width="560" height="315" src="/Davinci_Portfolio/assets/videos/line_follow.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
