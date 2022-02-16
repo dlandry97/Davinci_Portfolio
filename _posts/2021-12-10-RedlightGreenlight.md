@@ -72,7 +72,13 @@ To combine the computer vision and game algorithm together, I used the ROS pytho
 <!-- ![control image](/Davinci_portfolio/assets/images/control_diagram.jpg) -->
 
 ## Video Presentation
-<iframe width="560" height="315" src="https://youtu.be/3N2Qco0lPuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/3N2Qco0lPuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+## Video Presentation
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=3N2Qco0lPuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+<!-- 
+<iframe width="560" height="315" src="https://youtu.be/3N2Qco0lPuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 ## Player Elimination
 <iframe width="560" height="315" src="/Davinci_Portfolio/assets/RLGL/elimination.mp4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
