@@ -5,11 +5,11 @@ post-image: "/Davinci_Portfolio/assets/ShearHaptics/prototype2.gif"
 description: A virtual reality haptic controller that uses shear grip movement to simulate torque and moments when interacting with large objects in VR.
 tags:
 - Robotics
-- Post
 - Engineering
 - VR
 - Design
 - In_Progress
+- Northwestern
 ---
 
 This project is still in progress.
@@ -20,7 +20,7 @@ The two main portions of this project include the design the mechanical structur
 The general goal for the design was to create a shear movment about the controller grip with minimal actuators and a confortable form as a handheld device. To achieve the linear motion of the grips, many actuation schemes were considered such as; linear actuators, worm gears, gears, belt drives. The decided mechanism was a timing belt system actuated by a single high torque servo motor. The belt driven system gives the advantage of displacing the motor location away from the handle while still achieving strong linear force through the grips. The timing belt would attach to a set of carts guided by steel shaft rails. These shafts would function as a skeletal structure of the device as well as guide the grips in a linear path up and down the device. The second prototype increases efficiency and confort by slimming down the size of the mechanism while increasing the size of the grips.
 
 ##### Prototype 1 test
-![Prototype 1](/Davinci_Portfolio/assets/ShearHaptics/prototype1.jpg)
+![Prototype 1](/Davinci_Portfolio/assets/ShearHaptics/prototype1.gif)
 
 
 **Actuation**

@@ -7,6 +7,7 @@ tags:
 - Robotics
 - Engineering
 - Balance
+- Northwestern
 ---
 
 The project integrates two main portions. First part is the perception: we use real sense camera as our sensor to capture the transient positions of ball and board, and using OpenCV library processes the sensing images. Second part is the control: there are two PD controllers we are implementing to control the ping-pong ball following the target trajectory on the white board. The higher level control loop takes ball positions as input and outputs desired angles of corresponding two arm joints. Then the updated joint angles received by the low level control loop. By tuning PD gains, this loop is able to send desired efforts to robot arm through ros_control topic.

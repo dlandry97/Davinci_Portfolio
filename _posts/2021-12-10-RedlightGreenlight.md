@@ -7,6 +7,7 @@ tags:
 - Computer Vision
 - Tracking
 - Game
+- Northwestern
 ---
 ## Redlight Greenlight
 For this project I created the computer vision system and the interactive game mechanics for redlight greenlight. Redlight Greenlight is the kids game where a seeker player tries to catch the other players moving while they try to cross a field. When the seeker calls "greenlight", the seeker covers their eyes while the other players are able to move across the field to reach the other side. Once the seeker calls "redlight", they uncover their eyes and the other players must freeze in place to not get caught moving by the seeker. If a player is caught moving during the redlight phase, they are eliminated from the game by the seeker.
