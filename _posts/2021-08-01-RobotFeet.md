@@ -43,7 +43,9 @@ Robotic foot sensors need to be able to sense center of pressure. To do this, yo
 
 <!-- ![Jump Collage](/Davinci_Portfolio/assets/IHMC/2021_Nadia_JumpCollage.jpg) -->
 ![BendKick](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_01_BendKick_Small.png)
+
 ![carbon thigh](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_06.jpg)
+
 ![inner carbon thigh](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_11.jpg)
 
 ![part](/Davinci_Portfolio/assets/IHMC/me_with_leg.jpg)
