@@ -1,7 +1,7 @@
 ---
 title: Humanoid Robot Feet
 layout: post
-post-image: "/Davinci_Portfolio/assets/videos/pushball.gif"
+post-image: "/Davinci_Portfolio/assets/IHMC/2021_Nadia_JumpCollage.jpg"
 description: This project involves the research and design of feet for the NADIA robot, a hydraulic powered humanoid robot in development at The Institute for Human and Machine Cognition (IHMC).
 tags:
 - Robotics
@@ -20,7 +20,7 @@ The literature review was focused on dynamic robot feet both actuated and passiv
 
 
 **Sensor**
-Robotic foot sensors need to be able to sense center of pressure. To do this, you need to be able to sense 3 axis of force; x-moment, y-moment, z-axial. 
+Robotic foot sensors need to be able to sense center of pressure. To do this, you need to be able to sense 3 axis of force; x-moment, y-moment, z-axial. I decided to move forward with a 6-axis force/torque sensor that measures all moments and all angles
 
 
 **Design and Prototyping**
