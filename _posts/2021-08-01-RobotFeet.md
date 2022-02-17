@@ -24,26 +24,35 @@ Robotic foot sensors need to be able to sense center of pressure. To do this, yo
 
 
 **Design and Prototyping**
+
 ![cad foot](/Davinci_Portfolio/assets/IHMC/cad_foot.png)
+
 ![plastic foot](/Davinci_Portfolio/assets/IHMC/plastic_foot.jpg)
+
 ![foot](/Davinci_Portfolio/assets/IHMC/foot_off.jpg)
+
+![foot pad](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_17.jpg)
 
 **Implimentation**
 ## NADIA Movement Test
 <iframe width="720" height="480" src="/Davinci_Portfolio/assets/IHMC/media11.mp4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Jump Collage](/Davinci_Portfolio/assets/IHMC/2021_Nadia_JumpCollage.jpg)
-![BendKick](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_BendKick_Small.png)
+
+
+**Other NADIA Projects**
+
+<!-- ![Jump Collage](/Davinci_Portfolio/assets/IHMC/2021_Nadia_JumpCollage.jpg) -->
+![BendKick](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_01_BendKick_Small.png)
 ![carbon thigh](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_06.jpg)
 ![inner carbon thigh](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_11.jpg)
-![foot pad](/Davinci_Portfolio/assets/IHMC/20210630_Nadia_Parts_LowRes_17.jpg)
 
 ![part](/Davinci_Portfolio/assets/IHMC/me_with_leg.jpg)
 
 ![lab_photo](/Davinci_Portfolio/assets/IHMC/ihmc_lab.png)
+<!-- 
 <!-- * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
-* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) -->
+* [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) --> -->
 
 ---
 <!-- 
